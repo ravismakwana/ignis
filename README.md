@@ -1,2 +1,0 @@
-# ignis
-Custom WordPress Theme
